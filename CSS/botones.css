@@ -1,0 +1,19 @@
+/*  BOTON VERDE CON HOVER */
+.btn_guardar{
+  width: 150px;background:#2fcc59;color:white;font-weight: bold;
+  transition: box-shadow .5s;
+}
+.btn_guardar:hover{
+  background: #34e363;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+/*  BOTON ROJO CON HOVER */
+.btn_cancelar{
+  width: 150px;background:#ff0d0d;color:white;font-weight: bold;
+  transition: box-shadow .5s;
+}
+.btn_cancelar:hover{
+  background: #ff4e0d;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
