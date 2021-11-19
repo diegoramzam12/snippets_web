@@ -1,0 +1,17 @@
+/*Filtro estilizado*/
+.dataTables_wrapper .dataTables_filter input {
+    border: 1px solid black;
+    border-radius: 3px;
+    padding: 5px;
+    background-color: white;
+    margin-left: 3px;
+}
+/*Columna con botonera 'acciones' (para rows con acciones CRUD)*/
+.acciones {
+  background-color: #001c83;
+  color: white;
+}
+/*Estilo para encabzados*/
+.regular_th{
+  background: #F9F9F9!important;
+}
